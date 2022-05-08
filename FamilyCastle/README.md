@@ -1,2 +1,2 @@
 # CanvaProjects
-<img src="Family-Castle.jpeg">
+<img src="Family-Castle.png">
