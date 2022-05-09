@@ -1,2 +1,2 @@
 # CanvaProjects
-<img src="tindog.jpeg">
+<img src="TinDog.png">
